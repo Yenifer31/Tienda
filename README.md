@@ -2,7 +2,7 @@
 
 Este es un proyecto de la clase 3 de mi tienda que hace una venta de productos.
 
-## COMO UTILOZAR
+## COMO UTILIZAR
 
 Para utilizar, clonar en repositorio y ejecutar el index.html
 
